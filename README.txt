@@ -1,10 +1,10 @@
-CSCI 404 - Programming project 2
-
+CSCI 404
+Readme file
 
 (1) Name and CSM ID of the student:
 
 	Name: Deepak Rajasekhar Karishetti
-	CWID: 10846936
+	CWID: 
 
 
 (2) What programming language is being used.
