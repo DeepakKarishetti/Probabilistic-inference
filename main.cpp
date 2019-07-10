@@ -1,6 +1,8 @@
-// Deepak Rajasekhar Karishetti
-// 10846936
-// CSCI - 404
+/*
+ CSCI-404A
+ Deepak Rajasekhar Karishetti
+ CSM
+*/
 
 #include <iostream>
 #include <iomanip>
