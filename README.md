@@ -32,7 +32,7 @@
 		-There is only one arg to program or zero if no observation made.
 		-Argument is a continuous string of chars of only Cs and Ls
 
-	**Example:**
+	Example:
 	
 		$ ./compute_a_posteriori CLLCCLLLCCL
 
